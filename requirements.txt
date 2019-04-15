@@ -1,0 +1,8 @@
+Keras==2.2.4
+matplotlib==3.0.3
+numpy==1.15.4
+Pillow==6.0.0
+scipy==1.2.1
+tensorboard==1.13.1
+tensorflow==1.13.1
+tensorflow-estimator==1.13.0
